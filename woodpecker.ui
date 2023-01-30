@@ -7,7 +7,7 @@
     <x>0</x>
     <y>0</y>
     <width>1920</width>
-    <height>1056</height>
+    <height>1080</height>
    </rect>
   </property>
   <property name="sizePolicy">
@@ -19,7 +19,7 @@
   <property name="minimumSize">
    <size>
     <width>1920</width>
-    <height>1056</height>
+    <height>1080</height>
    </size>
   </property>
   <property name="maximumSize">
@@ -41,7 +41,7 @@
    <property name="minimumSize">
     <size>
      <width>1920</width>
-     <height>1056</height>
+     <height>1080</height>
     </size>
    </property>
    <property name="maximumSize">
@@ -4484,7 +4484,7 @@ PLATE</string>
                              <enum>QFrame::Raised</enum>
                             </property>
                             <property name="currentIndex">
-                             <number>1</number>
+                             <number>0</number>
                             </property>
                             <widget class="QWidget" name="panel_gcodegraphics">
                              <layout class="QHBoxLayout" name="horizontalLayout_55">
@@ -19573,6 +19573,7 @@ color: rgb(51, 255, 0);</string>
  </customwidgets>
  <resources>
   <include location="woodpecker.qrc"/>
+  <include location="woodpecker.qrc"/>
  </resources>
  <connections>
   <connection>
@@ -20709,8 +20710,8 @@ color: rgb(51, 255, 0);</string>
   <slot>chk_eoffsets_checked()</slot>
  </slots>
  <buttongroups>
+  <buttongroup name="mode_buttonGroup"/>
   <buttongroup name="page_buttonGroup"/>
   <buttongroup name="axis_buttonGroup"/>
-  <buttongroup name="mode_buttonGroup"/>
  </buttongroups>
 </ui>
