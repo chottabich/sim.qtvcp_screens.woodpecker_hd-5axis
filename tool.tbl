@@ -1,0 +1,29 @@
+T90  P90  D+3.000000 ;PROBE 
+T0   P0   ;NO TOOL LOADED 
+T1   P1   D+1.587500 ;1/16" end mill 
+T2   P2   D+3.160000 Z+10.944000 ;1/8" end mill 
+T3   P3   D+2.860000 ;1/8" router bit 
+T4   P4   D+6.350000 ;1/4" straight router bit 
+T6   P5   D+0.126700 ;5/16" straight 25 mm flute 
+T6   P6   D+7.937500 ;5/16" straight 30 mm flute 
+T7   P7   D+12.700000 ;1/2" straight router bit 
+T8   P8   D+19.050000 ;3/4" bottom clearing 
+T9   P9   D+6.350000 ;1/4" single flute 
+T10  P10  D+3.175000 ;1/8" spot drill 
+T11  P11  D+3.175000 ;1/8" ball end 
+T12  P12  D+6.350000 ;1/4" ball end 
+T13  P13  D+9.525000 ;3/8" ball end 
+T14  P14  D+12.700000 ;1/2" ball end 
+T15  P15  D+12.700000 ;90 deg v-bit 
+T16  P16  D+6.350000 ;45/60 v-bit 
+T17  P17  D+6.350000 ;45/60 v-bit 
+T21  P21  D+6.000000 ;6 mm straight ball end 
+T22  P22  D+6.000000 ;6 mm straight ball end 
+T23  P23  D+1.000000 ;1 mm tapered ball end 
+T24  P24  D+1.000000 ;1 mm tapered ball end 
+T25  P25  D+6.000000 ;60 deg v-bit 6mm shank 
+T26  P26  D+6.000000 ;60 deg v-bit 6 mm shank 
+T31  P31  D+3.000000 ;3 mm router bit 
+T32  P32  D+6.000000 ;6 mm router bit 
+T33  P33  D+6.000000 ;6 mm drill 
+T34  P34  D+6.000000 ;6 mm 4 flute spiral upcut 

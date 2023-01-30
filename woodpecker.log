@@ -1,0 +1,4 @@
+2023-01-30 11:33:45,156 - QTvcp.QTVCP.QT_MAKEGUI - CRITICAL - Missing slot name in handler file: 'VCPWindow' object has no attribute 'updateJogState'
+2023-01-30 11:33:51,266 - QTvcp.QTVCP.WIDGETS.STATUS_LABEL - WARNING - lbl_runtime : no option recognised
+2023-01-30 11:33:51,683 - QTvcp.QTVCP.WIDGETS.STATUS_LABEL - WARNING - lbl_maxv_percent : no option recognised
+2023-01-30 11:33:51,687 - QTvcp.QTVCP.WIDGETS.STATUS_LABEL - WARNING - lbl_max_rapid : no option recognised
